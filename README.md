@@ -1,3 +1,7 @@
 # Embedded-Systems
-Semester VI Embedded Systems, ARM Assembly Code.
-LPC1768
+Manipal Institute of Technology
+Semester VI Embedded Systems
+  1. ARM Assembly Code
+  2. Hardware C Code
+
+Coded on LPC1768 using Keil µVision.
